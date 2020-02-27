@@ -1,0 +1,13 @@
+{
+  "serverless": {
+    "provider": "aws",
+    "project": "BlueButtonFinal",
+    "skipInstall": false,
+    "directory": ".",
+    "clientProject": "BlueButtonFinal",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
